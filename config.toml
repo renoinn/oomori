@@ -7,11 +7,11 @@ theme = "hugo_theme_pickles"
   paginate = 10
   # Social accounts. Link to these accounts are displayed in the header and
   # footer
-  # twitter = "Your Twitter username"
+  twitter = "https://twitter.com/renoinn"
   # facebook = "Your Facebook username"
   # instagram = "Your Instagram username"
   # googleplus = "Your Google+ account URL" # https://plus.google.com/u/0/xxxxxx
-  # github = "Your GitHub username"
+  github = "https://github.com/renoinn"
   # gitlab = "Your GitLab username"
   # npm = "Your npm username"
   # codepen = "Your CodePen username"
@@ -27,11 +27,11 @@ theme = "hugo_theme_pickles"
   # disqus = ""
   # Google Analytics API key.
   # ga_api_key = "Your Google Analytics tracking id"
-  author = "Your Name"
+  author = "renoinn"
   # authorwebsite = "example.com"
-  # avatar = "/path/to/avatar"
+  avatar = "https://pbs.twimg.com/profile_images/895896735649746945/8VdXpCjH_400x400.jpg"
   # contact = "Your contact link (ex. mailto:foo@example.com)"
-  bio = "Your short bio"
+  bio = "php and android developer."
   # Short subtitle/tagline. This is displayed in the header.
   # subtitle = "Short subtitle"
   # Logo image. This is displayed ogp image.

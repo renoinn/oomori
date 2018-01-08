@@ -1,4 +1,3 @@
 baseURL = "https://renoinn.github.io/"
 languageCode = "en-us"
 title = "OOMORI.LUNCH"
-theme = "hugo_theme_pickles"

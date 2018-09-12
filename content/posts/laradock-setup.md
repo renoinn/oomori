@@ -1,7 +1,7 @@
 ---
 title: "Laradockで開発環境をセットアップ"
 date: 2018-09-12T16:49:39+09:00
-draft: true
+draft: false
 ---
 
 Laradockを使ってLaravelの開発環境を作ったので、備忘録。
